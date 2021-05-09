@@ -1,0 +1,8 @@
+.center-div {
+    margin: 0 auto;
+    width: 700px; 
+}
+#question{
+    scroll-margin-left:initial;
+    width: 400px;
+}
